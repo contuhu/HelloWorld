@@ -3,4 +3,4 @@ fadsfafdafafdasfasdfas
 fdsafafafasfasfasfa
 status 2,1vvvv
 
-status 4
+STATUS 34
